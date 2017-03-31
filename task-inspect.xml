@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task
+  PUBLIC '-//OASIS//DTD DITA Task//EN'
+  'dtd1.2/technicalContent/dtd/task.dtd'>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<task id="task-inspect" xml:lang="en-us">
+  <title>Inspect the transmitter</title>
+  <shortdesc>Record details of the M800 meter's condition as received.</shortdesc>
+  <taskbody>
+    <context>
+      <p>Use SalesLogix to record the condition of the customer’s equipment as received.  This 
+        protects Mettler-Toledo from claims that customer equipment became damaged while in the 
+        Mettler-Toledo facility for service.</p>
+    </context>
+    <steps>
+      <stepsection>To inspect the meter:</stepsection>
+      <step>
+        <cmd>Log into SalesLogix and open the RMA number listed on the paperwork.</cmd>
+      </step>
+      <step>
+        <cmd>Inspect the enclosure of the M800 meter and check the appearance 
+          of the front panel, looking for any visible damage.</cmd>
+      </step>
+      <step>
+        <cmd>Use the Phillips-head screwdriver to loosen the 4 screws on the front 
+          panel to allow the top to lift open.</cmd>
+      </step>
+      <step>
+        <cmd>Inspect the visible boards and connectors.  Look for any broken or 
+          damaged connectors, cracked surfaces, or exposed wires.</cmd>
+      </step>
+      <step>
+        <cmd>If the customer did not send a usable power cord, attach one.  Power 
+          the M800 and watch to make sure it turns on and progresses through the start-up 
+          screens until the measurement screen displays.</cmd>
+      </step>
+      <step>
+        <cmd>If the customer sent a patch cord, disconnect the leads by pushing the 
+          orange spring clips with the small flat-head screwdriver one at a time while pulling 
+          gently on each lead.</cmd>
+      </step>
+      <step>
+        <cmd>Record the details of any observed damage in SalesLogix.  If the M800 
+          looks to be in good condition, put in the notes that the equipment looks fine.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+  <related-links>
+    <link format="dita" href="concept-purpose.xml" type="concept"/>
+    <link format="dita" href="reference-example.xml" type="concept"/>
+  </related-links>
+</task>

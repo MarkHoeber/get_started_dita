@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task
+  PUBLIC '-//OASIS//DTD DITA Task//EN'
+  'dtd1.2/technicalContent/dtd/task.dtd'>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<task id="task-logmeter" xml:lang="en-us">
+  <title>Receiving a Customer Meter</title>
+  <shortdesc>This entry describes how to log in a customer's M800 meter for
+    recalibration.</shortdesc>
+  <taskbody>
+    <context>
+      <p>Each customer’s meter has been assigned a “Return Material Authorization” (RMA) 
+        number which is written on a tag attached to both the M00 and the bin.  The same 
+        RMA number appears at the top of the associated paperwork.</p>
+    </context>
+    <steps>
+      <stepsection>To log in a meter:</stepsection>
+      <step>
+        <cmd>Get the bin containing the M800 and the customer paperwork 
+          from the assignment shelf in Technical Services and carry it to the 
+          calibration station.</cmd>
+      </step>
+      <step>
+        <cmd>Review the paperwork received with the M800 unit for recalibration.  Make 
+          sure that the RMA number on the sheet matches the tags on the equipment.  Also 
+          check that the part number and the serial number on the sheets match the 
+          transmitter received.</cmd>
+      </step>
+      <step>
+        <cmd>Note on the cover sheet any extra pieces received, such as patch cords, 
+          by writing down the part numbers from the labels.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+  <related-links>
+    <link format="dita" href="concept-purpose.xml" type="concept"/>
+    <link format="dita" href="reference-example.xml" type="concept"/>
+  </related-links>
+</task>

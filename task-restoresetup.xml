@@ -7,8 +7,8 @@
      applicable licenses.-->
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
  *-->
-<task id="task-recordsetup" xml:lang="en-us">
-  <title>Record the M800 Setup</title>
+<task id="task-restoresetup" xml:lang="en-us">
+  <title>Restore the M800 Setup</title>
   <shortdesc>This entry describes how to restore the customer’s M800 meter setup.</shortdesc>
   <taskbody>
     <context>

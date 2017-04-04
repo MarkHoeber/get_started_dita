@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task
+  PUBLIC '-//OASIS//DTD DITA Task//EN'
+  'dtd1.2/technicalContent/dtd/task.dtd'>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<task id="task-recordsetup" xml:lang="en-us">
+  <title>Record the M800 Setup</title>
+  <shortdesc>This entry describes how to record the customer’s M800 meter setup.</shortdesc>
+  <taskbody>
+    <context>
+      <p>Record the customer’s setup so that it can be restored after the 
+        transmitter recalibration and the customer can place the M800 back into 
+        service quickly.</p>
+    </context>
+    <steps>
+      <stepsection>To record the setup of an M800 meter:</stepsection>
+      <step>
+        <cmd>Use the USB cable to connect the M800 to the computer.</cmd>
+      </step>
+      <step>
+        <cmd>Open the M800 Transmitter Calibration Tool (TCT) program.</cmd>
+        <info>If the M800 software is older than 1.3.00, the TCT will not work.  
+          In that case, the configuration must be checked manually and settings written 
+          on the customer’s paperwork.</info>
+      </step>
+      <step>
+        <cmd>Click <msgph>Get All Transmitter Setup Files.</msgph></cmd>
+      </step>
+      <step>
+        <cmd>Once the files transfer successfully, the program will give the message 
+          “Get all transmitter setup files successfully!”  Press <msgph>OK.</msgph></cmd>
+      </step>
+      <step>
+        <cmd>Store the setup files in the network.</cmd>
+        <substeps>
+          <substep><cmd>Click <msgph>Save All Transmitter Setup Files</msgph></cmd></substep>
+          <substep><cmd>Click <msgph>Make New Folder</msgph></cmd></substep>
+          <substep><cmd>In the dialog box, rename the folder with the RMA number, 
+            then click <msgph>OK</msgph>.</cmd></substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>When done, press <msgph>EXIT</msgph> then <msgph>OK</msgph> to close the program.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+  <related-links>
+    <link format="dita" href="concept-purpose.xml" type="concept"/>
+  </related-links>
+</task>

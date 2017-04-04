@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<!DOCTYPE concept
+  PUBLIC '-//OASIS//DTD DITA Concept//EN'
+  'dtd1.2/technicalContent/dtd/concept.dtd'>
+
+<concept id="sample_concept" xml:lang="en-US">
+  <title>Purpose</title>
+  <shortdesc>Purpose for periodic meter recalibration</shortdesc>
+  <conbody>
+    <p>Mettler-Toledo recommends that M800 instruments receive annual recalibration at the factory.  This document provides step by step instructions for technicians to perform recalibration of Mettler-Toledo M800 resistivity transmitters returned by customers for routine service.</p>
+  </conbody>
+</concept>

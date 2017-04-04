@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept
+PUBLIC '-//OASIS//DTD DITA Concept//EN'
+  'dtd1.2/technicalContent/dtd/concept.dtd'>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<concept id="task-equipment" xml:lang="en-us">
+  <title>Required Equipment</title>
+  <shortdesc>This entry describes all of the equipment required for the recalibration of an M800
+    meter.</shortdesc>
+<conbody>
+      <p>All of the equipment is stored in the Technical Services laboratory for 
+        technicians to use.  Have the following equipment ready at the calibration 
+        station before starting:</p>
+    
+<ul>
+  <li>Screwdriver with Phillips-head bit</li>
+  <li>Screwdriver with flat head, less than 1mm wide</li>
+  <li>Power cord with tinned leads (if needed)</li>
+  <li>USB cable</li>
+  <li><p>Hewlett-Packard 33401A multimeter or equivalent with 
+    banana plug leads, red and black</p>
+    <p>The multimeter must have 
+    a current calibration sticker.</p></li>
+  <li><p>Mettler-Toledo Thornton UniCond Verifier Kit</p>
+    <p>The verifier kit must have 
+      a current calibration sticker.</p></li>
+  <li>M800 patch cord, part number 52080271 OR 58080272</li>
+  <li>M800 Transmitter Service Tool</li>
+  <li>770MAX equipped with 10-inch power leads and an additional 10-inch 
+    jumper wire (for cleaning mechanical relays, if needed</li>
+  <li>Quick Setup Guide Transmitter M800</li>
+</ul>
+</conbody>
+  <related-links>
+    <link format="dita" href="concept-purpose.xml" type="concept"/>
+  </related-links>
+</concept>

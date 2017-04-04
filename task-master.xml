@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task
+  PUBLIC '-//OASIS//DTD DITA Task//EN'
+  'dtd1.2/technicalContent/dtd/task.dtd'>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<task id="task-master" xml:lang="en-us">
+  <title>Meter Calibration Overview</title>
+  <shortdesc>This entry describes the major steps in any conductivity meter
+    recalibration.</shortdesc>
+  <taskbody>
+    <context>
+      <p>Most industries require periodic recalibration of key instruments.  
+        The periods are sometimes determined by external regulations.</p>
+    </context>
+    <steps>
+      <stepsection>To recalibrate a meter:</stepsection>
+      <step>
+        <cmd>Log in the meter.</cmd>
+      </step>
+      <step>
+        <cmd>Inspect the meter.</cmd>
+      </step>
+      <step>
+        <cmd>Record the meter's setup.</cmd>
+      </step>
+      <step>
+        <cmd>Perform the meter's recalibration.</cmd>
+      </step>
+      <step>
+        <cmd>Update the records.</cmd>
+      </step>
+      <step>
+        <cmd>Restore the meter's setup.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+  <related-links>
+    <link format="dita" href="concept-purpose.xml" type="concept"/>
+  </related-links>
+</task>

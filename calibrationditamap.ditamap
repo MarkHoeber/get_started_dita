@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Learning Map//EN" "learningmap.dtd">
+<map>
+    <title>M800 Calibration map</title>
+    <topicref href="concept-purpose.xml"/>
+    <topicref href="task-equipment.xml"/>
+    <topicref href="task-master.xml">
+        <topicref href="task-logmeter.xml"/>
+        <topicref href="task-recordsetup.xml"/>
+        <topicref href="task-inspect.xml"/>
+        <topicref href="task-restoresetup.xml"/>
+    </topicref>
+</map>
+

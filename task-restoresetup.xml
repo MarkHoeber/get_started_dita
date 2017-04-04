@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task
+  PUBLIC '-//OASIS//DTD DITA Task//EN'
+  'dtd1.2/technicalContent/dtd/task.dtd'>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<task id="task-restoresetup" xml:lang="en-us">
+  <title>Restore the M800 Setup</title>
+  <shortdesc>This entry describes how to restore the customer’s M800 meter setup.</shortdesc>
+  <taskbody>
+    <context>
+      <p>Restoring the M800 setup allows the customer to put the transmitter back into service
+        quickly without having to reprogram it. If the M800’s software version did not allow the
+        files to be stored electronically, use your notes on the customer’s paperwork to manually
+        restore the settings.</p>
+    </context>
+    <steps>
+      <stepsection>To electronically restore the setup of an M800 meter:</stepsection>
+      <step>
+        <cmd>Use the USB cable to connect the M800 to the computer.</cmd>
+      </step>
+      <step>
+        <cmd>Open the M800 Transmitter Calibration Tool (TCT) program.</cmd>
+      </step>
+      <step>
+        <cmd>Click <msgph>Open All Transmitter Setup Files.</msgph></cmd>
+      </step>
+      <step>
+        <cmd>The program will open the directory.  Highlight the folder name 
+          stored earlier and <msgph>OK.</msgph></cmd>
+      </step>
+      <step>
+        <cmd>Once the files open, the program will give the message 
+          “Open files successfully!”  Press <msgph>OK</msgph> to continue.</cmd>
+      </step>
+      <step>
+        <cmd>Click <msgph>Send All Transmitter Setup Files.</msgph></cmd>
+      </step>
+      <step><cmd>The program will return the message "Send all transmitter files successfully!"  
+        Press <msgph>OK</msgph> to continue.</cmd>         
+      </step>
+      <step><cmd>When the loading finishes, press <msgph>EXIT</msgph> then <msgph>OK</msgph> to 
+        close the program.</cmd></step>
+    </steps>
+  </taskbody>
+  <related-links>
+    <link format="dita" href="concept-purpose.xml" type="concept"/>
+  </related-links>
+</task>

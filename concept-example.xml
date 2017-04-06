@@ -10,11 +10,11 @@
 
 <concept id="sample_concept" xml:lang="en-US">
   <author>Your name</author>
-  <title>My Abstract</title>
+  <title>Mae's Abstract</title>
   <shortdesc>My Abstract</shortdesc>
   <conbody>
-    <p>First paragraph</p>
-    <p>Second paragraph</p>
-    <p>Third paragraph</p>
+    <p>TEST 1</p>
+    <p>TEST 2</p>
+    <p>TEST 3</p>
   </conbody>
 </concept>

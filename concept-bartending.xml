@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<!DOCTYPE concept
+  PUBLIC '-//OASIS//DTD DITA Concept//EN'
+  'dtd1.2/technicalContent/dtd/concept.dtd'>
+
+<concept id="Bartending_concept" xml:lang="en-US">
+  <title>Bartending</title>
+  <shortdesc>What is Bartending ?</shortdesc>
+  <conbody>
+  <p>Bartending is the profession of serving drinks at a bar, usually alcoholic. Either mixing
+    varies liqours together into a glass or serving beer, what kind of drinks and how to make them
+    depend on the establishment they're created in. A bartenders job can revolve around serving
+    beers, wines, mixed drinks and cocktails, with large amount of variety in each group.</p>
+  </conbody>
+</concept>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC 
+'-//OASIS//DTD DITA Reference//EN' 
+  'dtd1.2/technicalContent/dtd/reference.dtd'>
+
+<!--  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
+
+<reference id="Tidbits-of-Info" xml:lang="en-US">
+  <title>Varying rules depending on place of work.</title>
+  <shortdesc>Some places require a bartending license, which are given out by schools after taking classes on bartending. Not all places have the same rules, and can vary on things like:</shortdesc>
+  <refbody>
+    <section id="Measuring">
+      <title>Measuring.</title>
+      <p>Some places allow for free pouring, which you eyeball how much liquor goes into the drink, while other places require you use a measuring tool like a "jigger", which is a measuring cup that has two "cups" on it of varying sizes. </p>
+    </section>
+    <section id="Checking-for-IDs">
+      <title>Checking the guest for their ID to ensure they're of legal age to consume alcohol.</title>
+      <p> Depending on the establishment you may have varying rules on who to ID before serving. Some places require you to ID everyone regardless of age, some follow state laws which can vary.</p>
+    </section>
+    <section id="House-vs-Common-Drinks">
+      <title>House vs Common Drinks</title>
+      <p>Some drinks like a Long Island Ice Tea can vary depending on the establishment, while the core of the drink remains the same (gin, vodka, tequila, rum), they can change on other ingredients like triple sec, sweet and sour juice, and what kind of soda to use.</p>
+    </section>
+  </refbody>
+</reference>

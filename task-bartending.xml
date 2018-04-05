@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task
+  PUBLIC '-//OASIS//DTD DITA Task//EN'
+  'dtd1.2/technicalContent/dtd/task.dtd'>
+<!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<task id="makinglongisland" xml:lang="en-us">
+  <title>How to make a Long Island Ice Tea</title>
+  <shortdesc>A very common drink to make as a bartender is a Long Island Ice Tea, which consists of five different kinds of liquor.</shortdesc>
+  <taskbody>
+    <context>
+      <p>Knowing how to make a Long Island will help you be on your way to a bartender.</p>
+    </context>
+    <steps>
+      <stepsection>To make a Long Island: </stepsection>
+      <step>
+        <cmd>Gather the ingredients for the drink.</cmd>
+      </step>
+      <step>
+        <cmd>Setup mixing glass and tin, put small amount of ice in mixing glass.</cmd>
+      </step>
+      <step>
+        <cmd>Pour one part of gin, vodka, tequila, rum in any order..</cmd>
+      </step>
+      <step>
+        <cmd>Add one part triple sec.</cmd>
+      </step>
+      <step>
+        <cmd>Add two part sweet and sour.</cmd>
+      </step>
+      <step>
+        <cmd>Put mixing tin on the glass, then shake drink.</cmd>
+      </step>
+      <step>
+        <cmd>Strain drink into ice filled serving glass.</cmd>
+      </step>
+      <step>
+        <cmd>Fill the rest with coke. </cmd>
+      </step>
+      <step>
+        <cmd>Add a lemon as a garish and a straw.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+  <related-links>
+    <link format="dita" href="concept-example.xml" type="concept"/>
+    <link format="dita" href="reference-example.xml" type="concept"/>
+  </related-links>
+</task>

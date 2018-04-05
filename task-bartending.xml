@@ -46,7 +46,7 @@
     </steps>
   </taskbody>
   <related-links>
-    <link format="dita" href="concept-example.xml" type="concept"/>
-    <link format="dita" href="reference-example.xml" type="concept"/>
+    <link format="dita" href="concept-bartending.xml" type="concept"/>
+    <link format="dita" href="reference-bartending.xml" type="concept"/>
   </related-links>
 </task>

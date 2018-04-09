@@ -9,11 +9,16 @@
   'dtd1.2/technicalContent/dtd/concept.dtd'>
 
 <concept id="sample_concept" xml:lang="en-US">
-  <title>Title</title>
-  <shortdesc>My Abstract</shortdesc>
+  <title>Birds</title>
+    
+  <shortdesc>Birds are terrifying</shortdesc>
   <conbody>
-    <p>First paragraph</p>
-    <p>Second paragraph</p>
-    <p>Third paragraph</p>
+    <p>Birds are scary, vicious creatures.</p>
+       <p>Millions of Birds: Out number humans</p>
+       <p>Beaks: Peck your face off</p>	
+       <p>Claws: Claw your eyes out</p>
+       
+    <p>Airial attacks.</p>
+    <p>Even Twitter is about birds.</p>
   </conbody>
 </concept>

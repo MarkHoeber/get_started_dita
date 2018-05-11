@@ -8,12 +8,39 @@
   PUBLIC '-//OASIS//DTD DITA Concept//EN'
   'dtd1.2/technicalContent/dtd/concept.dtd'>
 
-<concept id="sample_concept" xml:lang="en-US">
-  <title>Title</title>
-  <shortdesc>My Abstract</shortdesc>
+<concept id="concept" xml:lang="en-US">
+  <title>Resume Writing</title>
+  <shortdesc>Overview of the basics of resume construction.</shortdesc>
   <conbody>
-    <p>First paragraph</p>
-    <p>Second paragraph</p>
-    <p>Third paragraph</p>
-  </conbody>
+    <p>When constructing a resume, you should always include the following information:</p>
+       <ul>
+            <li>Name</li>
+            <li>Contact information</li>
+            <li>Education</li>
+            <li>Relevant licenses and certifications</li>
+            <li>Professional experience</li>
+            <li>Skills (Technical, language, etc.)</li>
+       </ul>
+    <p>The following information may also be included, but is optional:</p>
+       <ul>
+            <li>Volunteer work</li>
+            <li>Extracurricular activities</li>
+            <li>Interests</li>
+       </ul>
+    <p>Once you've made sure that you've included all of the necessary information in your resume, it is time to edit and proofread the document. You will need to address the following:</p>
+  <ul>
+       <li>Grammar</li>
+       <li>Spelling</li>
+       <li>Punctuation</li>
+       <li>Style of text (Bold, italic, underline, etc.)</li>
+       <li>Font<li>
+       <li>Text size</li>
+       <li>Line spacing</li>
+       <li>Margin size</li>
+       <li>Lists and bulletpoints</li>
+       <li>Accuracy (Dates, locations, etc.)</li>
+       <li>Number of pages</li>
+ </ul>
+            
+     </conbody>
 </concept>

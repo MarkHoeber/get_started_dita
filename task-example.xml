@@ -7,39 +7,24 @@
      applicable licenses.-->
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
  *-->
-<task id="changeoil" xml:lang="en-us">
-  <title>Changing the oil in your car</title>
-  <shortdesc>Once every 6000 kilometers or three months, change the oil in
-your car.</shortdesc>
-  <taskbody>
-    <context>
-      <p>Changing the oil regularly will help keep the engine in good condition.  Do it every three
-        months.</p>
-    </context>
-    <steps>
-      <stepsection>To change the oil:</stepsection>
-      <step>
-        <cmd>Remove the old oil filter.</cmd>
-      </step>
-      <step>
-        <cmd>Drain the old oil.</cmd>
-      </step>
-      <step>
-        <cmd>Install a new oil filter and gasket.</cmd>
-      </step>
-      <step>
-        <cmd>Add new oil to the engine.</cmd>
-      </step>
-      <step>
-        <cmd>Check the air filter and replace or clean it.</cmd>
-      </step>
-      <step>
-        <cmd>Top up the windshield washer fluid.</cmd>
-      </step>
-    </steps>
-  </taskbody>
-  <related-links>
-    <link format="dita" href="concept-example.xml" type="concept"/>
-    <link format="dita" href="reference-example.xml" type="concept"/>
-  </related-links>
+<task id="resumeinformation" xml:lang="en-us">
+    <title>Including Necessary Information on Your Resume</title>
+    <shortdesc>It is important to make sure that you are including the proper information on your resume, and that you are not leaving anything out.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Including information on your resume such as your name, contact info, education, licenses and certifications, professional experience and skills is important.</p>
+        </context>
+        <steps>
+            <stepsection>To document your education, licenses/certifications and professional experience:</stepsection>
+            <step>
+                <cmd>Include the most recent experience, degree or certification first.</cmd>
+            </step>
+            <step>
+                <cmd>Always include the year that you graduated or earned your certification.</cmd>
+            </step>
+            <step>
+                <cmd>If you graduated with a GPA that was above a 3.0, be sure to include it on your resume.</cmd>
+            </step>
+        </steps>
+    </taskbody>
 </task>

@@ -9,11 +9,12 @@
   'dtd1.2/technicalContent/dtd/concept.dtd'>
 
 <concept id="sample_concept" xml:lang="en-US">
-  <title>Title</title>
-  <shortdesc>My Abstract</shortdesc>
+  <title>Install instantclient and ODBC for use with Microsoft Access</title>
+  <shortdesc>Oracle ODBC drivers enable an application (in this instance Microsofot Access) to access data on the oracle database via the ODBC connection. Downloading and installing the ODBC drivers requires following
+     the Oracle install instructions percisely.  This is a tool that the Stats user require for a legacy application.  </shortdesc>
   <conbody>
-    <p>First paragraph</p>
-    <p>Second paragraph</p>
-    <p>Third paragraph</p>
+    <p>The first step is install the Oracle drivers as an administrator following the correc folder structure.</p>
+    <p>Once installed, the ODBC interface can be configured.</p>
+    <p>Have the end user test the connections on their profile.</p>
   </conbody>
 </concept>

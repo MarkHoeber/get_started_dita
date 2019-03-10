@@ -8,12 +8,13 @@
   PUBLIC '-//OASIS//DTD DITA Concept//EN'
   'dtd1.2/technicalContent/dtd/concept.dtd'>
 
-<concept id="sample_concept" xml:lang="en-US">
-  <title>Title</title>
-  <shortdesc>My Abstract</shortdesc>
+<concept id="Repainting_an_entire_house" xml:lang="en-US">
+  <title>Repainting an entire house of resale or refreshing the interior design.</title>
+  <shortdesc>Paint is an easy way to refresh a house design.  Houses with good interior design sell faster than houses with poor design 
+     choices.  Start a design scheme by selecting a whole house concept color scheme</shortdesc>
   <conbody>
-    <p>First paragraph</p>
-    <p>Second paragraph</p>
-    <p>Third paragraph</p>
+    <p>The first step to taking on a full house repaint is to measure all of the rooms and make a square footage map</p>
+    <p>The second step is determining the color scheme that will be used.</p>
+    <p>The third step is making a materials list and costing out the job</p>
   </conbody>
 </concept>

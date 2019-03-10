@@ -7,34 +7,22 @@
      applicable licenses.-->
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
  *-->
-<task id="changeoil" xml:lang="en-us">
-  <title>Changing the oil in your car</title>
-  <shortdesc>Once every 6000 kilometers or three months, change the oil in
-your car.</shortdesc>
+<task id="Tasking for repainting the interior of a house" xml:lang="en-us">
+  <title>Painting an entire house.</title>
+  <shortdesc>Repainting a house for a refresh or for resale.</shortdesc>
   <taskbody>
     <context>
-      <p>Changing the oil regularly will help keep the engine in good condition.  Do it every three
-        months.</p>
+      <p>Draw a simple floor plan or use a free on line tool for creating a digital floor plan.  Look at this link:href="https://www.roomsketcher.com/features/2d-floor-plans/" format="html"
+                        scope="external"/></p>
     </context>
     <steps>
-      <stepsection>To change the oil:</stepsection>
+      <stepsection>Measure the rooms:</stepsection>
       <step>
-        <cmd>Remove the old oil filter.</cmd>
+        <cmd>Determine the square foots of the floor and the ceiling.</cmd>
       </step>
+     
       <step>
-        <cmd>Drain the old oil.</cmd>
-      </step>
-      <step>
-        <cmd>Install a new oil filter and gasket.</cmd>
-      </step>
-      <step>
-        <cmd>Add new oil to the engine.</cmd>
-      </step>
-      <step>
-        <cmd>Check the air filter and replace or clean it.</cmd>
-      </step>
-      <step>
-        <cmd>Top up the windshield washer fluid.</cmd>
+        <cmd>Color code each room in your drawing.</cmd>
       </step>
     </steps>
   </taskbody>

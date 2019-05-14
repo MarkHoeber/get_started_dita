@@ -1,0 +1,69 @@
+?xml version="1.0" encoding="utf-8"?>
+<!-- I created I created a set of tasks for cleaning organized by inside cleaning tasks and outside cleaning tasks. -->
+<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+<!DOCTYPE concept
+  PUBLIC '-//OASIS//DTD DITA Concept//EN'
+  'dtd1.2/technicalContent/dtd/concept.dtd'>
+  
+<task id="Cleaning Tasks" xml:lang="en-US">
+    
+    <taskbody>
+        
+        <title>Inside and Outside Cleaning Tasks</title>
+        
+        <shortdesc>Cleaning Tasks</shortdesc>
+        
+        <section>
+            <title>Inside Cleaning Tasks</title>
+            
+            <title>Dust</title>
+                <p>Dust all the surfaces before vacuuming or sweeping.  Use the dustcloths that are in the sofa table drawer in the living room.</p>
+            <br>
+                
+            
+            <title>Vacuum</title>
+                <p>Vacuum all the rugs and carpeting.  Be sure to do the following:</p>
+                    <list>
+                        Dust before vacuuming
+                        Move furniture to vacuum under it
+                        Use the attachments to vacuum the stairs
+                    </list>
+            <br></br>
+                
+            <title>Sweep</title>
+                <p>Sweep all the hard surface floors (Kitchen, Sunroom, Bathroom)</p>
+            <br></br>
+                    
+                       
+        </section>
+        
+        <section>
+            <title>Outside Cleaning Tasks</title>
+            
+            <title>Sweep</title>
+                <list>
+                    Driveway
+                    Front walkway and stoop
+                    Garage
+                    Back Deck
+                </list>
+            <br></br>
+                
+                <title>Rake</title>
+                <list>
+                    Front Yard
+                    Fenced Area
+                    Back Yard
+                </list>
+            <br></br>
+                
+                <title>Weed the Garden</title>
+                    <p>Wait until Mom is home and the two of you can weed together.  Mom will show you which plants are weeds and which plants are keepers.</p>
+                <br>
+                                        
+        </section>
+        
+    </taskbody>
+    
+</task>
